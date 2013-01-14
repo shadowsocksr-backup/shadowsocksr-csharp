@@ -1,0 +1,4 @@
+ShadowsocksR for Windows
+=======================
+
+Removed
