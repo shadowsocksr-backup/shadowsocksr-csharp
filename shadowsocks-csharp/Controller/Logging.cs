@@ -52,7 +52,7 @@ namespace Shadowsocks.Controller
 
                 return true;
             }
-            catch (IOException e)
+            catch (Exception e)
             {
                 Console.WriteLine(e.ToString());
                 return false;
